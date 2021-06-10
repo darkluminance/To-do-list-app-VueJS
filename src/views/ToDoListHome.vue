@@ -136,7 +136,8 @@
 		color: #383838;
 	}
 	.list {
-		margin: 0px 480px;
+		margin: 0px auto;
+		width: 580px;
 	}
 	.listitem {
 		text-align: left;

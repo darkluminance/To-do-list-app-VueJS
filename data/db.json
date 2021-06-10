@@ -1,25 +1,25 @@
 {
-	"list": [
-		{
-			"id": 1,
-			"item": "Add an item by clicking the plus icon",
-			"deadline": "",
-			"completed": false,
-			"deleted": false
-		},
-		{
-			"id": 2,
-			"item": "Complete a task by clicking the todo item",
-			"deadline": "",
-			"completed": false,
-			"deleted": false
-		},
-		{
-			"id": 3,
-			"item": "Delete an item by clicking the cross icon",
-			"deadline": "",
-			"completed": false,
-			"deleted": false
-		}
-	]
+  "list": [
+    {
+      "id": 1,
+      "item": "Add an item by clicking the plus icon",
+      "deadline": "",
+      "completed": false,
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "item": "Complete a task by clicking the todo item",
+      "deadline": "",
+      "completed": false,
+      "deleted": false
+    },
+    {
+      "id": 3,
+      "item": "Delete an item by clicking the cross icon",
+      "deadline": "",
+      "completed": false,
+      "deleted": false
+    }
+  ]
 }
